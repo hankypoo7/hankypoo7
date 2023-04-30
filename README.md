@@ -11,5 +11,5 @@
 <p>‎ </p>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=Hankypoo7&theme=ambient-gradient&hide_border=true&mode=weekly" /></a>
+ <img src="https://github-readme-stats.vercel.app/api?username=Hankypoo7&show_icons=true&theme=midnight-purple" /></a>
  </p>
