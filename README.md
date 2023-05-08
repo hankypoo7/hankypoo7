@@ -15,9 +15,7 @@
  </p>
 
 <p>‎ </p>
-<center>
-[![Hankypoo7's GitHub stats](https://github-readme-stats.vercel.app/api?username=hankypoo7)]
-</center>
+
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankypoo7&show_icons=true&theme=midnight-purple" /></a>
  </p>
