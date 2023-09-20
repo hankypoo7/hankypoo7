@@ -4,9 +4,7 @@
 
 <p>‎ </p>
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=Hankypoo7&theme=ambient-gradient&hide_border=true&mode=weekly" /></a>  
-</p>
+![](https://komarev.com/ghpvc/?username=hankypoo7&style=flat-square&color=orange&base=11983)
 
 <p>‎ </p>
 
