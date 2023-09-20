@@ -3,9 +3,9 @@
 </p>
 
 <p>‎ </p>
-
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=hankypoo7&style=flat-square&color=orange&base=11983)
-
+</p>
 <p>‎ </p>
 
 <p align="center">
